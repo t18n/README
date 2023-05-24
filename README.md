@@ -1,8 +1,9 @@
-# Turbo
+# Turbo's repo
 
-`t18n`
+Coffee and code is the perfect blend for a productive day
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=t18n&count_private=true&theme=dracula" alt="Turbo's stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t18n&layout=compact&theme=dracula" alt="Turbo's top langs" />
-</div>
+## My stats
+![Turbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=t18n&count_private=true&theme=dracula)
+<br />
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t18n&theme=dracula)
